@@ -1,0 +1,19 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "sample logging project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brendanfmartin/logger.git"
+  },
+  "author": "Brendan Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brendanfmartin/logger/issues"
+  },
+  "homepage": "https://github.com/brendanfmartin/logger#readme"
+}
