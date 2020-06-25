@@ -1,4 +1,4 @@
-const version = require('../package').version;
+const version = require('./package.json').version;
 
 const env = process.env.ENV_NAME;
 const component = 'custom.looger';
